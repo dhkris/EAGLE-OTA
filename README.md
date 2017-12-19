@@ -25,7 +25,7 @@ This library contains symbols and footprints for the currently available OTAs, a
 <li>OPA861</li>
 </ul>
 <h3>Symbol examples</h3>
-<img src="eagle-symbols.png">
+<img src="eagle-symbols.png" style="width: 600px">
 
 
 <h4>The author</h4>
