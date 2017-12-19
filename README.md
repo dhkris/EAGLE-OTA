@@ -24,6 +24,9 @@ This library contains symbols and footprints for the currently available OTAs, a
 <li>NE5517</li>
 <li>OPA861</li>
 </ul>
+<h3>Symbol examples</h3>
+<img src="eagle-symbols.png">
+
 
 <h4>The author</h4>
 This EAGLE library was developed by <b>David H. Christensen</b>. <br>
